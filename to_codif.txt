@@ -1,0 +1,3 @@
+Esto es un texto de prueba.
+
+Vamos a probar algunas cosas como los saltos de línea y las tildes  así como las tabulaciones.
